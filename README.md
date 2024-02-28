@@ -13,6 +13,7 @@ The following programming languages are used in this repository:
 
 - PHP
 - Perl
+- Classic ASP
 
 ## Contribution
 Contributions are welcome! Feel free to fork and submit a pull request.
