@@ -12,9 +12,7 @@ This repository is a collection of webshell scripts contributed by various devel
 The following programming languages are used in this repository:
 
 - PHP
-- Python
 - Perl
-- Shell
 
 ## Contribution
 Contributions are welcome! Feel free to fork and submit a pull request.
